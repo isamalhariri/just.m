@@ -1,0 +1,103 @@
+body{ background:#003153 ; width: 1330px;
+ }
+ .po{background-image:url('file:///C:/Users/user/Desktop/meine%20f/mmmmm-nnnnnn-bbb-vvv-cccc.jpg');
+ height: 500px ;
+  color:Turquoise ;
+ width:1300px;
+ font-size: 60px ;
+ font-style:inherit  ;
+ margin:-6px;
+ text-align:center;
+  direction:ltr;
+  padding: 50px 20px 0px 40px;}
+  
+  .oo{
+   text-decoration:none;
+   margin:0px  20px 0px;
+   padding: 50px;
+  }
+  
+  
+ h1{color:Turquoise ;
+ font-size: 60px ;
+ font-style:inherit  ;
+margin: -10px;
+padding:30px;
+ text-align:center;
+  direction:rtl;}
+
+.pp{
+ line-height:25px;
+}
+.ll{
+ font-size:20px;
+         margin-bottom:10px  ;
+         background:	#003153;
+}
+
+ p{ font-size :25px;
+ color:#FFFDD0;
+ margin-bottom:10px;
+ text-align:center;
+ direction: ltr;   }
+ 
+ .pe{
+ text-transform:none;
+ color: #F5F5DC;
+  padding:-2px ; 
+ }
+
+ 
+ div{ font-size:20px;
+         margin-bottom:10px  ;
+    }
+      
+      
+      a{font-size:25px ; color:#cfd8dc;  text-decoration:none;text-align: center;}
+      a:hover{
+       color:#f44336;
+       font-weight:bold;
+      }
+      blockquote{ font-size:20px;
+                  padding:1px;
+                  margin:3px ;
+                  background:#003153;
+                  width:100pxpx
+                  border:1px;}
+                  
+  .bold{font-size:30px ; color:#FFFF00}
+                  
+  .tybe{font-size:20px;
+         margin-bottom:10px  ;
+         background:	#003153;
+        
+         }
+         
+         tr{  font-size:20px;
+        text-align: center;
+         color: #FFF5EE;
+         font-style:normal;
+         background:	#848482;
+                height: 60px;
+                 border:2px }
+      
+      caption  {font-size:40px; color:#FFF5EE;}
+      fieldset {background:#00bbbb ; }
+      table    {color:#FFF0F5;  text-align: center;width: 700px;margin:0px 0px 0px 320px ;}
+      label    {color:#FFF5EE;font-size:25px;}
+           
+       input   {padding:7px  ;color:black; }
+       .xx{width: 234px;height: 35px;}
+       
+       legend{color:#2F4F4F ;
+              font-size:30px ;
+              padding:10px;
+              border:2px ;
+              background:#EFEFEF}
+             
+             
+              
+          
+            
+         
+             
